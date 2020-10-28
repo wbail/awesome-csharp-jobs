@@ -23,6 +23,7 @@ A curated list of companies using C# in production
 * [Lambda3](https://lambda3.recruiterbox.com/) | Remote and Sao Paulo, Brazil
 
 ## M - O
+* [ModalMais](https://jobs.kenoby.com/modalmais) | Rio de Janeiro and Sao Paulo, Brazil
 
 ## P - R
 
