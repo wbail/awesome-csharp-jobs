@@ -15,6 +15,7 @@ A curated list of companies using C# in production
 
 ## G - I
 * [GX2](http://www.gx2.com.br/) | HR Consulting in Brazil
+* [Inmetrics](https://www.linkedin.com/company/inmetricsstrongresults/jobs/) | Curitiba and Sao Paulo, Brazil
 
 ## J - L
 
