@@ -14,6 +14,7 @@ A curated list of companies using C# in production
 * [ExxonMobil](https://corporate.exxonmobil.com/Company/Careers/Information-Technology-career-path) | HQ in USA, additional offices in Curitiba and Rio de Janeiro, Brazil
 
 ## G - I
+* [GX2](http://www.gx2.com.br/) | HR Consulting in Brazil
 
 ## J - L
 
