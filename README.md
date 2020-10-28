@@ -31,5 +31,6 @@ A curated list of companies using C# in production
 ## S - U
 
 ## V - X
+[XP Inc](https://www.xpinc.com/carreiras/#/tecnologia) | Sao Paulo, Brazil
 
 ## Y - \#
