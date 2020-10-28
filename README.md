@@ -8,6 +8,7 @@ A curated list of companies using C# in production
 ## A - C
 * [Acrelec](https://acrelec.com/careers/) | HQ in France, additional offices in Brazil, USA, Romania
 * [Agile Content](https://www.agilecontent.com/) | Sao Paulo, Brazil
+* [Aguia Sistemas](https://aguiasistemas.com/contato/) | Ponta Grossa, Brazil
 * [Atos](https://www.linkedin.com/company/atos/jobs/) | Many locations
 * [ClearSale](https://www.linkedin.com/company/clearsale/jobs/) | Sao Paulo, Brazil
 
