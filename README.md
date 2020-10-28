@@ -20,6 +20,7 @@ A curated list of companies using C# in production
 * [Inmetrics](https://www.linkedin.com/company/inmetricsstrongresults/jobs/) | Curitiba and Sao Paulo, Brazil
 
 ## J - L
+* [Lambda3](https://lambda3.recruiterbox.com/) | Remote and Sao Paulo, Brazil
 
 ## M - O
 
