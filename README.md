@@ -32,6 +32,7 @@ A curated list of companies using C# in production
 * [Stone Pagamentos](https://jornada.stone.com.br/) | Remote and HQ in Rio de Janeiro, additional office in Sao Paulo, Brazil
 
 ## V - X
+* [Venturus](https://www.venturus.org.br/) | Campinas, Brazil
 * [XP Inc](https://www.xpinc.com/carreiras/#/tecnologia) | Sao Paulo, Brazil
 
 ## Y - \#
