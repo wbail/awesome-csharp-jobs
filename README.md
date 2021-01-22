@@ -30,6 +30,7 @@ A curated list of companies using C# in production
 
 ## S - U
 * [Stone Pagamentos](https://jornada.stone.com.br/) | Remote and HQ in Rio de Janeiro, additional office in Sao Paulo, Brazil
+* [Supero](https://www.supero.com.br/) | Remote and HQ in Florianopolis, additional offices in Joinville and Blumenau, Brazil
 
 ## V - X
 * [Vcom](https://www.vcomti.com.br/) | Sao Paulo, Brazil
